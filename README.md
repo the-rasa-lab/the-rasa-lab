@@ -13,3 +13,7 @@ I'm a digital designer exploring what AI can do for design. This is where I buil
 ## Status
 
 Just getting started. First projects coming soon.
+
+---
+
+*With a little help from my friends (including Claude).*
