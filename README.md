@@ -1,16 +1,15 @@
-## Hi there 👋
+# The Rasa Lab
 
-<!--
-**the-rasa-lab/the-rasa-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A tinker space for design and AI.
 
-Here are some ideas to get you started:
+I'm a digital designer exploring what AI can do for design. This is where I build small experiments, tools and prototypes. Some will work, some won't. All of it lives here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+
+- AI experiments and prototypes
+- Design tools and workflows
+- Notes on what I learned along the way
+
+## Status
+
+Just getting started. First projects coming soon.
